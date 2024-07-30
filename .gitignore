@@ -1,0 +1,4 @@
+target
+.snfoundry_cache/
+.next
+node_modules
